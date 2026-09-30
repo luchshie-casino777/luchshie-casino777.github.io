@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://luchshie-casino.github.io/sitemap.xml
+Sitemap: https://luchshie-casino777.github.io/sitemap.xml
